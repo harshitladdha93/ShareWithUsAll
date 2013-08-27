@@ -6,7 +6,7 @@ html { height: 100%; }
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
     background: url(../images/concrete_wall.png) repeat;
-    color: #fff;	
+    color: #000;	
 }
 
 a {

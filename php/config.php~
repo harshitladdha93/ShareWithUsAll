@@ -1,0 +1,5 @@
+
+     $db_connection = null; // database connection
+     $user_name = ""; // user's name
+     $user_password = ""; // user's password (what comes from POST)
+

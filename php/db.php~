@@ -1,0 +1,6 @@
+<?php	
+	define("DB_HOST", "localhost");
+	define("DB_NAME", "codecalltut");
+	define("DB_USER", "harshit");
+	define("DB_PASS", "laddha");
+?>
